@@ -17,7 +17,7 @@
   {
     "userId": 1,
     "id": 3,
-    "title":"sunt aut facere repellat",,
+    "title":"sunt aut facere repellat",
     "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
   },
   {
@@ -53,7 +53,7 @@
   {
     "userId": 1,
     "id": 9,
-    "title": "sunt aut facere repellat",,
+    "title": "sunt aut facere repellat",
     "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
   },
   {
@@ -62,3 +62,4 @@
     "title": "optio molestias id quia eum",
     "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
   },
+]
